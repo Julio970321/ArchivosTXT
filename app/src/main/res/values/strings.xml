@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArchivosTXT</string>
+    <string name="pcaptura">captura</string>
+    <string name="pmuestra">muestra</string>
+</resources>
